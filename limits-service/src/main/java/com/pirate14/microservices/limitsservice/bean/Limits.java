@@ -1,14 +1,14 @@
 package com.pirate14.microservices.limitsservice.bean;
 
-public class LimitConfiguration {
+public class Limits {
     private int maximum;
     private int minimum;
 
-    private LimitConfiguration() {
+    private Limits() {
 
     }
 
-    public LimitConfiguration(int maximum, int minimum) {
+    public Limits(int maximum, int minimum) {
         super();
         this.maximum = maximum;
         this.minimum = minimum;
