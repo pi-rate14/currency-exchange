@@ -1,4 +1,4 @@
-## CurrencyWise
+## Currency Exchange
 Three separate microservices to calculate currency conversion in a distributed fault tolerant manner.
 
 ### Microservices with Spring Boot and Spring Cloud
